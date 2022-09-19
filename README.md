@@ -1,4 +1,4 @@
-# atlas-babin
+# Atlas Babın
 Karalama duvarı, anlık notlarınızı hızlı bir şekilde tutmanızı sağlayan bir uygulamadır. Sayfanın herhangi bir yerine çift tıklayarak hızlı bir şekilde not tutmaya başlayabilirsiniz. 
 
 **
