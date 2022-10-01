@@ -10,7 +10,7 @@ Scribble wall is an application that allows you to quickly keep your instant not
 ### Demo
 https://siyahklasor.com/atlas-babin
 
-![](https://media-exp1.licdn.com/dms/image/C4D22AQHGRd42b0gtDg/feedshare-shrink_1280/0/1663528183569?e=1666224000&v=beta&t=LGeL3iIxDn3dYXkQaFOPZo1aJUhxtZD2YF1mJB4aONE)
+![](https://media-exp1.licdn.com/dms/image/C4D22AQFZymmPuixEkw/feedshare-shrink_1280/0/1664610618519?e=1667433600&v=beta&t=BfOLiadTVLaVWiLDHyHRslU0PvVuP0wRwvy0mZyXyXU)
 
 ### Kurulum
 Dosyayları indirdikten sonra hosting içerisine attığında hemen kullanmaya başlayabilirsin. Unutlmaması gereken; ana dizinde kullanılmayacaksa index.html içerisinde "assets" uzantısının başına "/" getirilmeli. Eğer bir klasörde kullanılacaksa "assets" uzantısının başına "/" getirilmemeli.
